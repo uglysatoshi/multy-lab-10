@@ -1,3 +1,5 @@
 <resources>
+    <string name="exit">Выход</string>
+    <string name="author">Об авторе</string>
     <string name="app_name">multy-lab-10</string>
 </resources>
